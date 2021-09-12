@@ -20,5 +20,5 @@
             "email": "info@baba.bj"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "stable"
 }
