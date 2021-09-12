@@ -1,2 +1,6 @@
-# php-object-copy
-Simple implementation of copy properties from one object to another by Reflection API.
+# prestashop-boilerplate
+Prestashop Module boilerplate for 1.6 - 1.7, to create prestashop module fron scratch.
+
+## Usage
+
+```composer create-project baba/prestashop-boilerplate new-module```
